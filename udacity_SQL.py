@@ -1,12 +1,3 @@
----Secret Phrase---
-SELECT sql, statement FROM Udacious WHERE quertId = 35;
-Table Name: Udacious
-Columns:
-problemSet INTEGER, node INTEGER, queryID INTEGEER, title TEXT, sql TEXT, statement TEXT
-
-HIDDEN MESSAGE #3 = Awesome.db
--------------------
-
 ## What's database? ##
 # Provide persistence like a file and data structures for storing and searching
     # our data much faster and easier than we could search a flat file
